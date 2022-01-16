@@ -1,0 +1,16 @@
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\obj\Debug\net5.0\Playersoppgave.csproj.AssemblyReference.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\obj\Debug\net5.0\Playersoppgave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\obj\Debug\net5.0\Playersoppgave.AssemblyInfoInputs.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\obj\Debug\net5.0\Playersoppgave.AssemblyInfo.cs
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\obj\Debug\net5.0\Playersoppgave.csproj.CoreCompileInputs.cache
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\bin\Debug\net5.0\Playersoppgave.exe
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\bin\Debug\net5.0\Playersoppgave.deps.json
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\bin\Debug\net5.0\Playersoppgave.runtimeconfig.json
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\bin\Debug\net5.0\Playersoppgave.runtimeconfig.dev.json
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\bin\Debug\net5.0\Playersoppgave.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\bin\Debug\net5.0\ref\Playersoppgave.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\bin\Debug\net5.0\Playersoppgave.pdb
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\obj\Debug\net5.0\Playersoppgave.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\obj\Debug\net5.0\ref\Playersoppgave.dll
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\obj\Debug\net5.0\Playersoppgave.pdb
+C:\Users\JaneC\OneDrive\Dokumenter\MODUL3\Playersoppgave\Playersoppgave\Playersoppgave\obj\Debug\net5.0\Playersoppgave.genruntimeconfig.cache
